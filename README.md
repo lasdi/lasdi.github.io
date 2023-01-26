@@ -1,6 +1,6 @@
-# LASDI
+# O Laboratório
 
-# Pesquisa
+# Pesquisas
 
 # Cursos
 
@@ -8,7 +8,7 @@
 - Circuitos Digitais II
 - Organização e Arquitetura de Computadores
 - Sistemas Microcontrolados
-- Sistemas Embarcados
+- [Sistemas Embarcados](cursos/sistemas_embarcados/README.md)
 - Sistemas de Tempo Real
 
 # Tutoriais
